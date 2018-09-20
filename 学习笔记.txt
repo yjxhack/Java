@@ -27,3 +27,6 @@ git config --global alias.diffall "/F/meld/git-diffall"
 git config --global mergetool.meld.path "/F/meld/Meld/Meld.exe"
 git config --global mergetool.keepBackup false 
 git mergetool--¥¶¿Ì≥ÂÕª
+
+
+—Óº“–÷
